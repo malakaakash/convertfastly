@@ -97,11 +97,11 @@ const ImageResizer: React.FC = () => {
     <>
       <Helmet>
         <title>Free Image Resizer - Resize Images Online | ConvertFastly</title>
-        <meta name="description" content="Resize images online for free. Maintain aspect ratio, adjust dimensions, and download instantly. Supports JPG, PNG, WebP. No registration required." />
+        <meta name="description" content="Free online image resizer tool. Resize images to any dimension while maintaining quality. Supports JPG, PNG, WebP formats. Fast, secure, no registration required." />
         <meta name="keywords" content="image resizer, resize image, image dimensions, photo resizer, online image tool, free image resizer, image editor" />
         <link rel="canonical" href="https://convertfastly.com/image-resizer" />
         <meta property="og:title" content="Free Image Resizer - Resize Images Online" />
-        <meta property="og:description" content="Resize images online for free. Maintain quality and aspect ratio. Supports multiple formats." />
+        <meta property="og:description" content="Free online image resizer tool. Resize images to any dimension while maintaining quality. Supports JPG, PNG, WebP formats." />
         <meta property="og:url" content="https://convertfastly.com/image-resizer" />
       </Helmet>
     <div className="bg-white rounded-xl shadow-lg p-8">

@@ -83,11 +83,11 @@ const CurrencyConverter: React.FC = () => {
     <>
       <Helmet>
         <title>Free Currency Converter - Live Exchange Rates | ConvertFastly</title>
-        <meta name="description" content="Convert currencies with real-time exchange rates. Support for USD, EUR, GBP, JPY, INR and more. Free online currency converter with live rates." />
+        <meta name="description" content="Free currency converter tool with live exchange rates. Convert between USD, EUR, GBP, JPY, INR and 50+ currencies. Real-time rates updated regularly." />
         <meta name="keywords" content="currency converter, exchange rates, currency exchange, convert currency, live rates, USD EUR GBP, foreign exchange" />
         <link rel="canonical" href="https://convertfastly.com/currency-converter" />
         <meta property="og:title" content="Free Currency Converter - Live Exchange Rates" />
-        <meta property="og:description" content="Convert currencies with real-time exchange rates. Support for major world currencies." />
+        <meta property="og:description" content="Free currency converter tool with live exchange rates. Convert between USD, EUR, GBP, JPY, INR and 50+ currencies." />
         <meta property="og:url" content="https://convertfastly.com/currency-converter" />
       </Helmet>
     <div className="bg-white rounded-xl shadow-lg p-8">

@@ -58,11 +58,11 @@ const FileConverter: React.FC = () => {
     <>
       <Helmet>
         <title>Free File Converter - Convert Files Online | ConvertFastly</title>
-        <meta name="description" content="Convert files between different formats online for free. Support for images, documents, and more. Fast, secure conversion in your browser." />
+        <meta name="description" content="Free file converter tool. Convert files between different formats online including images, documents, and more. Fast, secure conversion in your browser with no registration required." />
         <meta name="keywords" content="file converter, convert files, file format converter, online converter, document converter, image converter, free file conversion" />
         <link rel="canonical" href="https://convertfastly.com/file-converter" />
         <meta property="og:title" content="Free File Converter - Convert Files Online" />
-        <meta property="og:description" content="Convert files between different formats. Fast, secure, and free online file conversion." />
+        <meta property="og:description" content="Free file converter tool. Convert files between different formats online including images, documents, and more. Fast, secure conversion in your browser." />
         <meta property="og:url" content="https://convertfastly.com/file-converter" />
       </Helmet>
     <div className="bg-white rounded-xl shadow-lg p-8">

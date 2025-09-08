@@ -73,11 +73,11 @@ const PasswordGenerator: React.FC = () => {
     <>
       <Helmet>
         <title>Free Password Generator - Create Secure Passwords Online | ConvertFastly</title>
-        <meta name="description" content="Generate strong, secure passwords with our free online password generator. Customize length, characters, and complexity. No registration required. Create passwords instantly." />
+        <meta name="description" content="Free secure password generator tool. Create strong passwords with customizable length and character options. Generate random passwords instantly with no registration required." />
         <meta name="keywords" content="password generator, secure password, strong password, random password, password creator, online password generator, free password tool" />
         <link rel="canonical" href="https://convertfastly.com/password-generator" />
         <meta property="og:title" content="Free Password Generator - Create Secure Passwords Online" />
-        <meta property="og:description" content="Generate strong, secure passwords with customizable options. Free online tool with no registration required." />
+        <meta property="og:description" content="Free secure password generator tool. Create strong passwords with customizable length and character options." />
         <meta property="og:url" content="https://convertfastly.com/password-generator" />
       </Helmet>
     <div className="bg-white rounded-xl shadow-lg p-8">

@@ -150,11 +150,11 @@ const InstagramReelDownloader: React.FC = () => {
     <>
       <Helmet>
         <title>Free Instagram Reel Downloader - Download Public Reels | ConvertFastly</title>
-        <meta name="description" content="Download public Instagram Reels with captions. Free tool to save Instagram videos for offline viewing. Respects privacy and only works with public content." />
+        <meta name="description" content="Free Instagram Reel downloader tool. Download public Instagram Reels with optional captions. Save Instagram videos for offline viewing. Only works with public content, respects privacy." />
         <meta name="keywords" content="Instagram reel downloader, download Instagram video, Instagram video downloader, save Instagram reel, Instagram content downloader" />
         <link rel="canonical" href="https://convertfastly.com/instagram-reel-downloader" />
         <meta property="og:title" content="Free Instagram Reel Downloader - Download Public Reels" />
-        <meta property="og:description" content="Download public Instagram Reels with captions. Free and secure tool for content creators." />
+        <meta property="og:description" content="Free Instagram Reel downloader tool. Download public Instagram Reels with optional captions. Save Instagram videos for offline viewing." />
         <meta property="og:url" content="https://convertfastly.com/instagram-reel-downloader" />
       </Helmet>
 

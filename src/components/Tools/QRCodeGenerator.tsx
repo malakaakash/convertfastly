@@ -65,11 +65,11 @@ const QRCodeGenerator: React.FC = () => {
     <>
       <Helmet>
         <title>Free QR Code Generator - Create QR Codes Online | ConvertFastly</title>
-        <meta name="description" content="Generate QR codes for free. Create QR codes for URLs, text, email, phone numbers, WiFi, and more. Download as PNG. No registration required." />
+        <meta name="description" content="Free QR code generator tool. Create QR codes for URLs, text, email, phone numbers, WiFi and more. Instant download as PNG image. No registration required." />
         <meta name="keywords" content="QR code generator, create QR code, QR code maker, free QR generator, QR code creator, online QR tool" />
         <link rel="canonical" href="https://convertfastly.com/qr-code-generator" />
         <meta property="og:title" content="Free QR Code Generator - Create QR Codes Online" />
-        <meta property="og:description" content="Generate QR codes for URLs, text, email, and more. Free online tool with instant download." />
+        <meta property="og:description" content="Free QR code generator tool. Create QR codes for URLs, text, email, phone numbers, WiFi and more. Instant download as PNG image." />
         <meta property="og:url" content="https://convertfastly.com/qr-code-generator" />
       </Helmet>
     <div className="bg-white rounded-xl shadow-lg p-8">

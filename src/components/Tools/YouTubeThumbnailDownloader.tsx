@@ -153,11 +153,11 @@ const YouTubeThumbnailDownloader: React.FC = () => {
     <>
       <Helmet>
         <title>Free YouTube Thumbnail Downloader - Download Video Thumbnails | ConvertFastly</title>
-        <meta name="description" content="Download YouTube video thumbnails in multiple sizes and resolutions. Get high-quality thumbnails for your projects. Free online tool with instant download." />
+        <meta name="description" content="Free YouTube thumbnail downloader tool. Download video thumbnails in multiple sizes: 1280x720, 640x480, 480x360. Get high-quality thumbnails for your projects instantly." />
         <meta name="keywords" content="YouTube thumbnail downloader, video thumbnail, YouTube image download, thumbnail extractor, video preview image" />
         <link rel="canonical" href="https://convertfastly.com/youtube-thumbnail-downloader" />
         <meta property="og:title" content="Free YouTube Thumbnail Downloader - Download Video Thumbnails" />
-        <meta property="og:description" content="Download YouTube video thumbnails in multiple sizes and resolutions. Free and instant." />
+        <meta property="og:description" content="Free YouTube thumbnail downloader tool. Download video thumbnails in multiple sizes: 1280x720, 640x480, 480x360. Get high-quality thumbnails instantly." />
         <meta property="og:url" content="https://convertfastly.com/youtube-thumbnail-downloader" />
       </Helmet>
 

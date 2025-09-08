@@ -232,11 +232,11 @@ const YouTubeDownloader: React.FC = () => {
     <>
       <Helmet>
         <title>Free YouTube Video & Audio Downloader - Download YouTube Videos | ConvertFastly</title>
-        <meta name="description" content="Download YouTube videos and audio for free. Choose quality, format, and resolution. Support for MP4, MP3, WebM, and more. Fast, secure YouTube downloader." />
+        <meta name="description" content="Free YouTube video and audio downloader tool. Download YouTube videos in MP4, WebM formats or extract audio as MP3, M4A. Choose quality from 360p to 1080p. No registration required." />
         <meta name="keywords" content="YouTube downloader, download YouTube video, YouTube to MP3, YouTube to MP4, video downloader, audio downloader, free YouTube downloader" />
         <link rel="canonical" href="https://convertfastly.com/youtube-downloader" />
         <meta property="og:title" content="Free YouTube Video & Audio Downloader" />
-        <meta property="og:description" content="Download YouTube videos and audio in multiple formats and qualities. Free, fast, and secure." />
+        <meta property="og:description" content="Free YouTube video and audio downloader tool. Download YouTube videos in MP4, WebM formats or extract audio as MP3, M4A. Choose quality from 360p to 1080p." />
         <meta property="og:url" content="https://convertfastly.com/youtube-downloader" />
       </Helmet>
 

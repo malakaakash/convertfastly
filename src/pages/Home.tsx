@@ -380,12 +380,12 @@ const Home: React.FC = () => {
   return (
     <>
       <Helmet>
-        <title>ConvertFastly - 16+ Free Online Tools & Converters | File Converter, Image Resizer, Password Generator</title>
-        <meta name="description" content="Access 16+ free online tools: File Converter, Image Resizer, Password Generator, QR Code Generator, JSON Formatter, Currency Converter, PDF Tools & More. Fast, secure, browser-based tools with no registration required." />
-        <meta name="keywords" content="online tools, free converter, file converter, image resizer, password generator, QR code generator, JSON formatter, text encoder decoder, unit converter, hash generator, lorem ipsum generator, color palette generator, EMI calculator, currency converter, PDF to Word, Word to PDF, image compressor, color format converter, online utilities, web tools, conversion tools, free online tools, no registration tools, secure online tools" />
+        <title>ConvertFastly - 40+ Free Online Tools & Converters | YouTube Downloader, File Converter, Image Resizer, Password Generator</title>
+        <meta name="description" content="Access 40+ free online tools: YouTube Downloader, Instagram Downloader, File Converter, Image Resizer, Password Generator, QR Code Generator, JSON Formatter, Currency Converter, PDF Tools, SEO Tools, AI Tools & More. Fast, secure, browser-based tools with no registration required." />
+        <meta name="keywords" content="online tools, free converter, YouTube downloader, Instagram downloader, file converter, image resizer, password generator, QR code generator, JSON formatter, text encoder decoder, unit converter, hash generator, lorem ipsum generator, color palette generator, EMI calculator, currency converter, PDF tools, SEO tools, AI tools, online utilities, web tools, conversion tools, free online tools, no registration tools, secure online tools" />
         <link rel="canonical" href="https://convertfastly.com/" />
-        <meta property="og:title" content="ConvertFastly - 16+ Free Online Tools & Converters | No Registration Required" />
-        <meta property="og:description" content="Access 16+ free online tools: File Converter, Image Resizer, Password Generator, QR Code Generator, JSON Formatter, Currency Converter, PDF Tools & More. Fast, secure, browser-based tools with no registration required." />
+        <meta property="og:title" content="ConvertFastly - 40+ Free Online Tools & Converters | No Registration Required" />
+        <meta property="og:description" content="Access 40+ free online tools: YouTube Downloader, Instagram Downloader, File Converter, Image Resizer, Password Generator, QR Code Generator, JSON Formatter, Currency Converter, PDF Tools, SEO Tools, AI Tools & More. Fast, secure, browser-based tools with no registration required." />
         <meta property="og:url" content="https://convertfastly.com/" />
         <meta property="og:type" content="website" />
       </Helmet>

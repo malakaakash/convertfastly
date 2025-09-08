@@ -110,11 +110,11 @@ const JSONFormatter: React.FC = () => {
     <>
       <Helmet>
         <title>Free JSON Formatter & Validator - Format JSON Online | ConvertFastly</title>
-        <meta name="description" content="Format, validate, and minify JSON data online for free. Perfect for developers working with APIs and configuration files. No registration required." />
+        <meta name="description" content="Free JSON formatter and validator tool. Format, validate, and minify JSON data online. Perfect for developers working with APIs and configuration files." />
         <meta name="keywords" content="JSON formatter, JSON validator, JSON minifier, format JSON, validate JSON, JSON tool, JSON parser, online JSON" />
         <link rel="canonical" href="https://convertfastly.com/json-formatter" />
         <meta property="og:title" content="Free JSON Formatter & Validator - Format JSON Online" />
-        <meta property="og:description" content="Format, validate, and minify JSON data online. Perfect for developers and API testing." />
+        <meta property="og:description" content="Free JSON formatter and validator tool. Format, validate, and minify JSON data online. Perfect for developers working with APIs." />
         <meta property="og:url" content="https://convertfastly.com/json-formatter" />
       </Helmet>
     <div className="bg-white rounded-xl shadow-lg p-8">
