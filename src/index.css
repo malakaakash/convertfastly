@@ -1,0 +1,91 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Responsive Logo Styles */
+.header-logo {
+  height: var(--header-logo-size, 48px);
+}
+
+.footer-logo {
+  height: var(--footer-logo-size, 48px);
+}
+
+.homepage-logo {
+  height: var(--homepage-logo-size, 160px);
+}
+
+/* Mobile Responsive Logo Adjustments */
+@media (max-width: 768px) {
+  .header-logo {
+    height: var(--header-logo-size-mobile, 48px);
+  }
+  
+  .footer-logo {
+    height: var(--footer-logo-size-mobile, 48px);
+  }
+  
+  .homepage-logo {
+    height: var(--homepage-logo-size-mobile, 140px);
+  }
+}
+
+/* Article content styling */
+.prose {
+  line-height: 1.7;
+}
+
+.prose h2 {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #1f2937;
+}
+
+.prose h3 {
+  margin-top: 1.5rem;
+  margin-bottom: 0.75rem;
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: #374151;
+}
+
+.prose p {
+  margin-bottom: 1rem;
+  color: #4b5563;
+}
+
+.prose ul, .prose ol {
+  margin-bottom: 1rem;
+  padding-left: 1.5rem;
+}
+
+.prose li {
+  margin-bottom: 0.5rem;
+  color: #4b5563;
+}
+
+.prose a {
+  color: #2563eb;
+  text-decoration: underline;
+}
+
+.prose a:hover {
+  color: #1d4ed8;
+}
+
+/* Line clamp utilities */
+.line-clamp-2 {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.line-clamp-3 {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
